@@ -58,9 +58,27 @@ sicp.ex-1-1=>
 
 ### 문제 파일을 다 작성하면 커밋 후 Push 하고 단톡방에 다했다고 메시지를 남깁니다.
 
+## 책에 있는 Scheme과 Clojure가 다른점
 
+이름을 붙이는 방법이 다릅니다.
 
+### 일반 값
+- Scheme
+```scheme
+(define size 2)
+```
+- Clojure
+```clojure
+(def size 2)
+```
 
-
-
+### 프로시저 값
+- Scheme
+```scheme
+(define (square x) (* x x))
+```
+- Clojure
+```clojure
+(defn square [x] (* x x))
+```
 
