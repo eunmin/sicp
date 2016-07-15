@@ -30,6 +30,7 @@ git clone https://github.com/eunmin/sicp.git
 ```
 
 - 파일명은 _이고 `ns` 옆에 붙는 것은 - 인 것에 주의하세요.
+- 서술형 문제인 경우 주석 `;; ` 뒤에 작성합니다. 
 
 ### 문제 실행해 보기
 
