@@ -15,6 +15,21 @@
 ### leiningen 설치
 ```bash
 brew install leiningen
+==> Downloading https://homebrew.bintray.com/bottles/leiningen-2.6.1.el_capitan.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring leiningen-2.6.1.el_capitan.bottle.tar.gz
+==> Caveats
+Dependencies will be installed to:
+  $HOME/.m2/repository
+To play around with Clojure run `lein repl` or `lein help`.
+
+Bash completion has been installed to:
+  /usr/local/etc/bash_completion.d
+
+zsh completion has been installed to:
+  /usr/local/share/zsh/site-functions
+==> Summary
+🍺  /usr/local/Cellar/leiningen/2.6.1: 8 files, 14.7M
 ```
 
 ### 프로젝트 clone 
