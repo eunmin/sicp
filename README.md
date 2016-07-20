@@ -409,7 +409,11 @@ sicp.ex-1-1=>
 (defn square [x] (* x x))
 ```
 
-### cond 함수 사용
+### 조건문 사용
+
+#### cond
+
+클로저가 괄호가 하나 적다.
 
 - Scheme
 ```scheme
