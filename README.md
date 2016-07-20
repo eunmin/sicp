@@ -407,4 +407,23 @@ sicp.ex-1-1=>
 - Clojure
 ```clojure
 (defn square [x] (* x x))
+
+### cond 함수 사용
+
+- Scheme
+
+```scheme
+(cond
+  ((< n 0) "negative")
+  ((> n 0) "positive")
+  (else "zero"))
+```
+
+- Clojure
+
+```clojure
+(cond
+  (< n 0) "negative"
+  (> n 0) "positive"
+  :else "zero")
 ```
