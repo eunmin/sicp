@@ -3,8 +3,8 @@
 ## 순서
 
 - 김은민 todd 
-- 오광수 andy `1.2 진행중`
-- 곽윤도 lester
+- 오광수 andy
+- 곽윤도 lester `1.3 진행중`
 - 전다영글 hogle
 - 이민선 joony
 - 김세시나 amy
