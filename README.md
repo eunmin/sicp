@@ -342,7 +342,7 @@ git clone https://github.com/eunmin/sicp.git
 
 ### 문제 풀어서 올리는 방법
 
-- `연습문제 1.1`를 푼다고 하면 `src/sicp/ex_1_1.clj` 파일을 만들고 아래와 같은 형식으로 파일을 작성합니다.
+- `연습문제 1.1`를 푼다고 하면 `src/sicp/자기아이디/ex_1_1.clj` 파일을 만들고 아래와 같은 형식으로 파일을 작성합니다.
 
 ```clojure
 (ns sicp.자기아이디.ex-1-1)
