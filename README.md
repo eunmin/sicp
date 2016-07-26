@@ -97,6 +97,7 @@
 | 1.3  |        |        |    ✔   |        |    ✔   |          |        | [ex_1_3.clj](https://github.com/eunmin/sicp/blob/master/src/sicp/lester/ex_1_3.clj)
 | 1.4  |        |        |        |    ✔   |        |          |        |
 [ex_1_4.clj](https://github.com/eunmin/sicp/blob/master/src/sicp/hogle/ex_1_4.clj)
+
 | 1.5  |        |        |        |        |        |          |        |
 | 1.6  |        |        |        |        |        |          |        |
 | 1.7  |        |        |        |        |        |          |        |
