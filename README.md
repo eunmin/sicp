@@ -95,9 +95,7 @@
 | 1.1  |    ✔   |        |        |    ✔   |    ✔   |          |        | [ex_1_1.clj](https://github.com/eunmin/sicp/blob/master/src/sicp/todd/ex_1_1.clj)
 | 1.2  |        |    ✔   |        |    ✔   |    ✔   |          |        | [ex_1_2.clj](https://github.com/eunmin/sicp/blob/master/src/sicp/andy/ex_1_2.clj)
 | 1.3  |        |        |    ✔   |        |    ✔   |          |        | [ex_1_3.clj](https://github.com/eunmin/sicp/blob/master/src/sicp/lester/ex_1_3.clj)
-| 1.4  |        |        |        |    ✔   |        |          |        |
-[ex_1_4.clj](https://github.com/eunmin/sicp/blob/master/src/sicp/hogle/ex_1_4.clj)
-
+| 1.4  |        |        |        |    ✔   |        |          |        |[ex_1_4.clj](https://github.com/eunmin/sicp/blob/master/src/sicp/hogle/ex_1_4.clj)|
 | 1.5  |        |        |        |        |        |          |        |
 | 1.6  |        |        |        |        |        |          |        |
 | 1.7  |        |        |        |        |        |          |        |
