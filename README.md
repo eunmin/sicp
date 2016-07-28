@@ -6,8 +6,8 @@
 - 오광수 andy
 - 곽윤도 lester 
 - 다영글 hogle
-- 이민선 joony `1.5 진행중`
-- 김세시나 amy
+- 이민선 joony
+- 김세시나 amy `1.6 진행중` :runner:
 - 김용훈 poet
 
 ## 읽기표
@@ -96,7 +96,7 @@
 | 1.2  |        |    ✔   |        |    ✔   |    ✔   |          |        | [ex_1_2.clj](https://github.com/eunmin/sicp/blob/master/src/sicp/andy/ex_1_2.clj)
 | 1.3  |        |        |    ✔   |        |    ✔   |          |        | [ex_1_3.clj](https://github.com/eunmin/sicp/blob/master/src/sicp/lester/ex_1_3.clj)
 | 1.4  |        |        |        |    ✔   |    ✔   |          |        | [ex_1_4.clj](https://github.com/eunmin/sicp/blob/master/src/sicp/hogle/ex_1_4.clj)
-| 1.5  |        |        |        |        |        |          |        |
+| 1.5  |        |        |        |        |    ✔   |          |        | [ex_1_5.clj](https://github.com/eunmin/sicp/blob/master/src/sicp/joony/ex_1_5.clj)
 | 1.6  |        |        |        |        |        |          |        |
 | 1.7  |        |        |        |        |        |          |        |
 | 1.8  |        |        |        |        |        |          |        |
