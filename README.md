@@ -7,8 +7,8 @@
 - 곽윤도 lester 
 - 다영글 hogle
 - 이민선 joony
-- 김세시나 amy `1.6 진행중` :runner:
-- 김용훈 poet
+- 김세시나 amy
+- 김용훈 poet `1.6 진행중` :runner:
 
 ## 읽기표
 
@@ -22,7 +22,7 @@
 |1.1.4 묶음 프로시저(compound procedure)                                 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 |1.1.5 맞바꿈 계산법(substitution model)으로 프로시저를 실행하는 방법    | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 |1.1.6 조건 식과 술어(predicate  )                                       | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
-| :books: 연습문제 1.1 ~ 1.5                                             |   |   |   |   |   |   |   |
+| :books: 연습문제 1.1 ~ 1.5                                             |   |   |   |   |   | ✔ |   |
 |1.1.7 연습 : 뉴튼 법(newton method)으로 제곱근 찾기                     |   |   |   |   |   |   |   |
 | :books:연습문제 1.6 ~ 1.8                                              |   |   |   |   |   |   |   |
 |1.1.8 블랙박스처럼 간추린 프로시저                                      |   |   |   |   |   |   |   |
@@ -92,12 +92,12 @@
 
 | 문제 | 김은민 | 오광수 | 곽윤도 | 다영글 | 이민선 | 김세시나 | 김용훈 | 릴레이 주자 링크 |
 | ---- | ------ | ------ | ------ | ------ | ------ | -------- | ------ | ---------- |
-| 1.1  |    ✔   |        |        |    ✔   |    ✔   |          |   ✔    | [ex_1_1.clj](https://github.com/eunmin/sicp/blob/master/src/sicp/todd/ex_1_1.clj)
-| 1.2  |        |    ✔   |        |    ✔   |    ✔   |          |        | [ex_1_2.clj](https://github.com/eunmin/sicp/blob/master/src/sicp/andy/ex_1_2.clj)
-| 1.3  |        |        |    ✔   |        |    ✔   |          |        | [ex_1_3.clj](https://github.com/eunmin/sicp/blob/master/src/sicp/lester/ex_1_3.clj)
-| 1.4  |        |        |        |    ✔   |    ✔   |          |        | [ex_1_4.clj](https://github.com/eunmin/sicp/blob/master/src/sicp/hogle/ex_1_4.clj)
-| 1.5  |        |        |        |        |    ✔   |          |        | [ex_1_5.clj](https://github.com/eunmin/sicp/blob/master/src/sicp/joony/ex_1_5.clj)
-| 1.6  |        |        |        |        |        |          |        |
+| 1.1  |    ✔   |        |        |    ✔   |    ✔   |     ✔    |   ✔    | [ex_1_1.clj](https://github.com/eunmin/sicp/blob/master/src/sicp/todd/ex_1_1.clj)
+| 1.2  |        |    ✔   |        |    ✔   |    ✔   |     ✔    |        | [ex_1_2.clj](https://github.com/eunmin/sicp/blob/master/src/sicp/andy/ex_1_2.clj)
+| 1.3  |        |        |    ✔   |        |    ✔   |     ✔    |        | [ex_1_3.clj](https://github.com/eunmin/sicp/blob/master/src/sicp/lester/ex_1_3.clj)
+| 1.4  |        |        |        |    ✔   |    ✔   |     ✔    |        | [ex_1_4.clj](https://github.com/eunmin/sicp/blob/master/src/sicp/hogle/ex_1_4.clj)
+| 1.5  |        |        |        |        |    ✔   |     ✔    |        | [ex_1_5.clj](https://github.com/eunmin/sicp/blob/master/src/sicp/joony/ex_1_5.clj)
+| 1.6  |        |        |        |        |        |     ✔    |        |[ex_1_6.clj](https://github.com/eunmin/sicp/blob/master/src/sicp/amy/ex_1_6.clj)
 | 1.7  |        |        |        |        |        |          |        |
 | 1.8  |        |        |        |        |        |          |        |
 | 1.9  |        |        |        |        |        |          |        |
