@@ -8,7 +8,7 @@
 - 다영글 hogle
 - 이민선 joony
 - 김세시나 amy
-- 김용훈 poet `1.6 진행중` :runner:
+- 김용훈 poet `1.7 진행중` :runner:
 
 ## 읽기표
 
