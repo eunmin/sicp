@@ -2,13 +2,13 @@
 
 ## 순서
 
-- 김은민 todd 
+- 김은민 todd `1.8 진행중` :runner:
 - 오광수 andy
 - 곽윤도 lester 
 - 다영글 hogle
 - 이민선 joony
 - 김세시나 amy
-- 김용훈 poet `1.7 진행중` :runner:
+- 김용훈 poet 
 
 ## 읽기표
 
