@@ -14,7 +14,7 @@
   (* a a))
 
 (defn average "평균값 구한다" [a b]
-  (* (/ (+ a b) 2) 1.0))
+  (float (/ (+ a b) 2)))
 
 (defn good-enough "참 값에 충분히 가까운지" [guess x]
   (< (abs (- (squares guess) x)) 0.001))
