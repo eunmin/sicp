@@ -23,12 +23,12 @@
   (average guess (/ x guess)))
 
 (defn sqrt-iter "제곱근 구하기" [guess x]
-  (if (good-enough guess x)
+  (new-if (good-enough guess x)
       guess
       (sqrt-iter (improve guess x) x)))
 
 ; ; new-if 일 때,
-; 일반 프로시저는 인자 먼저 계산법(applicative order)에 따르므로
+; new-if(일반 프로시저)는 인자 먼저 계산법(applicative order)에 따르므로
 ; sqrt-iter 프로시저안에 else문 sqrt-iter를 evaluation하려다가 무한루프에 빠져 StackOverflowError 발생함.
 ; sicp.amy.ex-1-6=> (sqrt-iter 1 2)
 ; StackOverflowError   clojure.lang.Numbers$DoubleOps.multiply (Numbers.java:611)
