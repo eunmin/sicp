@@ -34,7 +34,7 @@
 ; StackOverflowError   clojure.lang.Numbers$DoubleOps.multiply (Numbers.java:611)
 
 ; ; if 일 때,
-; if문은 conditional expression으로 조건이 참이면 else-clause를 실행하거나 evaluation하지 않으므로 정상결과 출력함.
+; if문은 conditional expression으로 조건이 참이면 then-clause를 실행하고, else-clause를 evaluation하지않으므로 정상결과 출력함.
 ; sicp.amy.ex-1-6=> (sqrt-iter 1 2)
 ; 1.4142156862745097
 
