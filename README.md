@@ -3,8 +3,8 @@
 ## 순서
 
 - 김은민 todd 
-- 오광수 andy `1.9 진행중` :runner:
-- 곽윤도 lester 
+- 오광수 andy 
+- 곽윤도 lester `1.9 진행중` :runner:
 - 다영글 hogle
 - 이민선 joony
 - 김세시나 amy
@@ -24,10 +24,10 @@
 |1.1.6 조건 식과 술어(predicate  )                                       | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | :books: 연습문제 1.1 ~ 1.5                                             |   |   |   |   |   |   |   |
 |1.1.7 연습 : 뉴튼 법(newton method)으로 제곱근 찾기                     | ✔ | ✔ |   |   |   | ✔ | ✔ |
-| :books:연습문제 1.6 ~ 1.8                                              |   |   |   |   |   |   |   |
-|1.1.8 블랙박스처럼 간추린 프로시저                                      |   |   |   |   |   |   |   |
-|1.2 프로시저와 프로세스                                                 |   |   |   |   |   |   |   |
-|1.2.1 되돌거나(recursion) 반복하는(iteration) 프로세스                  |   |   |   |   |   |   |   |
+| :books:연습문제 1.6 ~ 1.8                                              |   | ✔ |   |   |   |   |   |
+|1.1.8 블랙박스처럼 간추린 프로시저                                      |   | ✔ |   |   |   |   |   |
+|1.2 프로시저와 프로세스                                                 |   | ✔ |   |   |   |   |   |
+|1.2.1 되돌거나(recursion) 반복하는(iteration) 프로세스                  |   | ✔ |   |   |   |   |   |
 | :books: 연습문제 1.9 ~ 1.10                                            |   |   |   |   |   |   |   |
 |1.2.2 여러 갈래로 되도는 프로세스                                       |   |   |   |   |   |   |   |
 |1.2.3 프로세스가 자라나는 정도                                          |   |   |   |   |   |   |   |
@@ -101,6 +101,7 @@
 | 1.7  |        |        |        |        |        |          |   ✔    | [ex_1_7.clj](https://github.com/eunmin/sicp/blob/master/src/sicp/poet/ex_1_7.clj)
 | 1.8  |   ✔    |        |        |        |        |          |        | [ex_1_8.clj](https://github.com/eunmin/sicp/blob/master/src/sicp/todd/ex_1_8.clj)
 | 1.9  |        |        |        |        |        |          |        |
+[ex_1_9.clj](https://github.com/eunmin/sicp/blob/master/src/sicp/andy/ex_1_9.clj)
 | 1.10 |        |        |        |        |        |          |        |
 | 1.11 |        |        |        |        |        |          |        |
 | 1.12 |        |        |        |        |        |          |        |
