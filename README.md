@@ -4,7 +4,7 @@
 
 - 김은민 todd 
 - 오광수 andy 
-- 곽윤도 lester `1.9 진행중` :runner:
+- 곽윤도 lester `1.10 진행중` :runner:
 - 다영글 hogle
 - 이민선 joony
 - 김세시나 amy
