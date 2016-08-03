@@ -100,8 +100,7 @@
 | 1.6  |        |        |        |        |        |     ✔    |   ✔    | [ex_1_6.clj](https://github.com/eunmin/sicp/blob/master/src/sicp/amy/ex_1_6.clj)
 | 1.7  |        |        |        |        |        |          |   ✔    | [ex_1_7.clj](https://github.com/eunmin/sicp/blob/master/src/sicp/poet/ex_1_7.clj)
 | 1.8  |   ✔    |        |        |        |        |          |        | [ex_1_8.clj](https://github.com/eunmin/sicp/blob/master/src/sicp/todd/ex_1_8.clj)
-| 1.9  |        |        |        |        |        |          |        |
-[ex_1_9.clj](https://github.com/eunmin/sicp/blob/master/src/sicp/andy/ex_1_9.clj)
+| 1.9  |        |   ✔    |        |        |        |          |        |[ex_1_9.clj](https://github.com/eunmin/sicp/blob/master/src/sicp/andy/ex_1_9.clj)
 | 1.10 |        |        |        |        |        |          |        |
 | 1.11 |        |        |        |        |        |          |        |
 | 1.12 |        |        |        |        |        |          |        |
