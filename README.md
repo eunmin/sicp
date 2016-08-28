@@ -5,8 +5,8 @@
 - 김은민 todd 
 - 오광수 andy 
 - 곽윤도 lester
-- 다영글 hogle `1.11 진행중` :runner:
-- 이민선 joony
+- 다영글 hogle
+- 이민선 joony `1.11 진행중` :runner:
 - 김세시나 amy
 - 김용훈 poet 
 
